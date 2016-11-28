@@ -1,6 +1,6 @@
 # yestermorrow
 
-A Clojure library designed to ... well, that part is up to you.
+ Yestermorrow is a library of additional time-related functions for Clojure using clj-time.
 
 ## Usage
 
@@ -8,7 +8,7 @@ FIXME
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Christopher Mark Gore, soli Deo gloria, all rights reserved.
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
