@@ -1,4 +1,4 @@
-# yestermorrow
+# yestermorrow  [![Build Status](https://travis-ci.org/cgore/yestermorrow.svg?branch=master)](https://travis-ci.org/cgore/yestermorrow) [![Dependencies Status](http://jarkeeper.com/cgore/yestermorrow/status.png)](http://jarkeeper.com/cgore/yestermorrow)
 
  Yestermorrow is a library of additional time-related functions for Clojure using clj-time.
 
